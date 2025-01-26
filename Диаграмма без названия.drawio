@@ -58,6 +58,12 @@
         <mxCell id="XSW73NYIcQ0LwuMuEFNa-20" value="Fronthaul" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="210" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XSW73NYIcQ0LwuMuEFNa-21" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XSW73NYIcQ0LwuMuEFNa-22" value="Центральный офис" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="225" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
