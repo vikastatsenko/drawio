@@ -4,28 +4,28 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="COgj_MwEU35G99YMAbhu-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;" vertex="1" parent="1">
+        <mxCell id="COgj_MwEU35G99YMAbhu-1" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;" vertex="1" parent="1">
           <mxGeometry x="320" y="100" width="55" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="COgj_MwEU35G99YMAbhu-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;" vertex="1" parent="1">
+        <mxCell id="COgj_MwEU35G99YMAbhu-2" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;" vertex="1" parent="1">
           <mxGeometry x="110" y="100" width="55" height="100" as="geometry" />
         </mxCell>
         <mxCell id="COgj_MwEU35G99YMAbhu-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="COgj_MwEU35G99YMAbhu-3" target="COgj_MwEU35G99YMAbhu-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="COgj_MwEU35G99YMAbhu-3" value="Антенна" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="COgj_MwEU35G99YMAbhu-3" value="Антенна" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="102.5" y="200" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="COgj_MwEU35G99YMAbhu-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="COgj_MwEU35G99YMAbhu-4" target="COgj_MwEU35G99YMAbhu-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="COgj_MwEU35G99YMAbhu-4" value="Антенна" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="COgj_MwEU35G99YMAbhu-4" value="Антенна" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="312.5" y="198" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="COgj_MwEU35G99YMAbhu-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="COgj_MwEU35G99YMAbhu-6" target="COgj_MwEU35G99YMAbhu-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="COgj_MwEU35G99YMAbhu-6" value="Выносная радиоголова" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="COgj_MwEU35G99YMAbhu-6" value="Выносная радиоголова" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="63" y="280" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="COgj_MwEU35G99YMAbhu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="COgj_MwEU35G99YMAbhu-8" target="COgj_MwEU35G99YMAbhu-15">
@@ -35,7 +35,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="COgj_MwEU35G99YMAbhu-8" value="Выносная радиоголова" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="COgj_MwEU35G99YMAbhu-8" value="Выносная радиоголова" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="272.5" y="280" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="COgj_MwEU35G99YMAbhu-9" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl627a_aruba_8325_32c_b2f_front;" vertex="1" parent="1">
@@ -55,23 +55,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="COgj_MwEU35G99YMAbhu-12" value="Блок основной полосы частот" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="COgj_MwEU35G99YMAbhu-12" value="Блок основной полосы частот" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="42.5" y="365" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="COgj_MwEU35G99YMAbhu-13" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.community;" vertex="1" parent="1">
+        <mxCell id="COgj_MwEU35G99YMAbhu-13" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.community;" vertex="1" parent="1">
           <mxGeometry x="200" y="510" width="104" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="COgj_MwEU35G99YMAbhu-14" value="Центральный офис" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="COgj_MwEU35G99YMAbhu-14" value="Центральный офис" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="187" y="468" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="COgj_MwEU35G99YMAbhu-15" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl627a_aruba_8325_32c_b2f_front;" vertex="1" parent="1">
           <mxGeometry x="178.5" y="610" width="142" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="COgj_MwEU35G99YMAbhu-16" value="Блок основной полосы частот" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="COgj_MwEU35G99YMAbhu-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="COgj_MwEU35G99YMAbhu-16" target="COgj_MwEU35G99YMAbhu-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COgj_MwEU35G99YMAbhu-16" value="Блок основной полосы частот" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="625" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="COgj_MwEU35G99YMAbhu-22" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="192" y="720" width="120" height="80" as="geometry" />
+          <mxGeometry x="184.5" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COgj_MwEU35G99YMAbhu-23" value="Интернет/ Основная сеть" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="164.5" y="800" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
