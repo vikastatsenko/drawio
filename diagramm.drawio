@@ -76,8 +76,17 @@
         <mxCell id="COgj_MwEU35G99YMAbhu-22" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="184.5" y="720" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="COgj_MwEU35G99YMAbhu-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="COgj_MwEU35G99YMAbhu-23" target="COgj_MwEU35G99YMAbhu-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="COgj_MwEU35G99YMAbhu-23" value="Интернет/ Основная сеть" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="164.5" y="800" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="COgj_MwEU35G99YMAbhu-25" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.business_center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="860" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="COgj_MwEU35G99YMAbhu-26" value="Центр обработки данных" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="164.5" y="970" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
