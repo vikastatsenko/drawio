@@ -28,6 +28,9 @@
         <mxCell id="COgj_MwEU35G99YMAbhu-8" value="Выносная радиоголова" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="272.5" y="280" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="COgj_MwEU35G99YMAbhu-9" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl627a_aruba_8325_32c_b2f_front;" vertex="1" parent="1">
+          <mxGeometry x="71" y="340" width="142" height="15" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
