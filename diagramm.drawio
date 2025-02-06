@@ -120,6 +120,12 @@
         <mxCell id="9arvkfLOGHVKMitG9cS_-30" value="Clocking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="-350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9arvkfLOGHVKMitG9cS_-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-480" width="140" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="9arvkfLOGHVKMitG9cS_-32" value="RF Data Converter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="755" y="-480" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
