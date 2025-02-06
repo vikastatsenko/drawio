@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 YaBrowser/24.12.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Страница — 1" id="AFWYC8pL8vRz5wajWs5p">
-    <mxGraphModel dx="1400" dy="1498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2497" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -257,7 +257,7 @@
           <mxGeometry x="-50" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9arvkfLOGHVKMitG9cS_-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="112.5" y="320" width="667.5" height="360" as="geometry" />
+          <mxGeometry x="87.5" y="-40" width="667.5" height="280" as="geometry" />
         </mxCell>
         <mxCell id="9arvkfLOGHVKMitG9cS_-70" value="BBU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="82.5" y="-40" width="50" height="20" as="geometry" />
