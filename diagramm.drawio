@@ -1,11 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 YaBrowser/24.12.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Страница — 1" id="AFWYC8pL8vRz5wajWs5p">
-    <mxGraphModel dx="1002" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="573" dy="1498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9arvkfLOGHVKMitG9cS_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9arvkfLOGHVKMitG9cS_-1" target="9arvkfLOGHVKMitG9cS_-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="-399.7142857142858" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9arvkfLOGHVKMitG9cS_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="82.5" y="-430" width="120" height="60" as="geometry" />
+          <mxGeometry x="47.5" y="-430" width="112.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8HPSa5ATCsyHZr1YajdJ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="302.5" y="-500" width="120" height="60" as="geometry" />
@@ -14,7 +19,7 @@
           <mxGeometry x="330" y="-495" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8HPSa5ATCsyHZr1YajdJ-5" value="iFFT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="112.5" y="-415" width="60" height="30" as="geometry" />
+          <mxGeometry x="77.5" y="-415" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9arvkfLOGHVKMitG9cS_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="-430" width="120" height="60" as="geometry" />
