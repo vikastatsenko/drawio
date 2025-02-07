@@ -640,6 +640,9 @@
         <mxCell id="k0W73LiMB_W4spe2Is2X-82" value="Internet / Core Network" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="k0W73LiMB_W4spe2Is2X-83" value="Data Centre" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1109" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
